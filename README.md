@@ -6,4 +6,4 @@ Grades:
 Project 1 - 19,90   
 Motive of Deduction - function(s) over 30 lines
 
-Project 2 - 19,90
+Project 2 - 19,00
